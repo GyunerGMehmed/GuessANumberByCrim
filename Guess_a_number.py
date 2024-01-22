@@ -10,7 +10,7 @@ random_number_lvl2 = random.randint(1, 200)
 # print(f"{random_number_lvl2}")
 
 def choose_level():
-    level_options = input(f"Choose a level you want to play: level [1] - [1:100] or level [2] = [1:200]: ")
+    level_options = input(f"Choose a level you want to play: level [1] - [1:100] or level [2] - [1:200]: ")
     if level_options == "1":
         return random_number
     elif level_options == "2":
