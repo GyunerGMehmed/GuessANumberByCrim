@@ -9,5 +9,5 @@ In the coding process i used functions, so it is easier in the future to change 
 Link to the code: https://github.com/GyunerGMehmed/GuessANumberByCrim/blob/main/Guess_a_number.py
 
 Images:
-<img alt="Image" width = "200px" src="![image](https://github.com/GyunerGMehmed/GuessANumberByCrim/assets/95441473/c4372f02-df7b-498c-8d3e-69691fe8c666)"/>
-<img alt="Image" width = "200px" src="![image](https://github.com/GyunerGMehmed/GuessANumberByCrim/assets/95441473/32d15ff9-f415-44c2-b538-7ce31cc92890)"/>
+<img alt="Image" width = "200px" src="https://github.com/GyunerGMehmed/GuessANumberByCrim/assets/95441473/c4372f02-df7b-498c-8d3e-69691fe8c666"/>
+<img alt="Image" width = "200px" src="https://github.com/GyunerGMehmed/GuessANumberByCrim/assets/95441473/32d15ff9-f415-44c2-b538-7ce31cc92890"/>
