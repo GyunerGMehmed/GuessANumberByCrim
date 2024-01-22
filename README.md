@@ -1,6 +1,6 @@
 # Guess A Number By Crim
 
-<img alt="Image" width = "130px" src="https://github.com/GyunerGMehmed/GuessANumberByCrim/assets/95441473/c4372f02-df7b-498c-8d3e-69691fe8c666]"/>
+<img alt="Image" width = "130px" src="https://github.com/GyunerGMehmed/GuessANumberByCrim/assets/95441473/19ad67c8-1a9b-4e37-a438-03aae690ee9a"/>
 
 
 Game where you have to guess number. The number is randomly generated and you have a certein level of difficulty and as of now, 2 levels to choose from.
