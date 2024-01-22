@@ -1,4 +1,7 @@
-# GuessANumberByCrim
+# Guess A Number By Crim
+
+<img alt="Image" width = "130px" src="https://github.com/GyunerGMehmed/GuessANumberByCrim/assets/95441473/c4372f02-df7b-498c-8d3e-69691fe8c666]"/>
+
 
 Game where you have to guess number. The number is randomly generated and you have a certein level of difficulty and as of now, 2 levels to choose from.
 For the future is planned to add an option where 2 player can compete with each other and maybe couple of more levels and variations of the game.
